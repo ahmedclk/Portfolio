@@ -1,6 +1,7 @@
 Projects I did during my data science education and internship.
 
 01 Traffic Police Stops
+
 02 Auto Scout Exploratory Data Analysis
 03 USA Police Kills Project
 04 Car Price Prediction Machine Learning
