@@ -1,6 +1,6 @@
 Projects I did during my data science education and internship.
 ---
-- Traffic Police Stops
+- [Traffic Police Stops](https://github.com/ahmedclk/Portfolio/tree/main/01_TrafficPoliceStops)
 - Auto Scout Exploratory Data Analysis
 - USA Police Kills Project
 - Car Price Prediction Machine Learning
