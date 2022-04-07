@@ -4,17 +4,11 @@
 ***
 # Descriptions :
     
- - You will practice fixing data types, handling missing values, and dropping columns and rows while learning about the Stanford Open Policing Project dataset.
+ - While learning about the **Stanford Open Policing Project** dataset, I practiced correcting data types, handling missing values, and dropping columns and rows.
 
- - You'll be analyzing a dataset of **traffic stops** in Rhode Island that was collected by the **Stanford Open Policing Project**.
-    
- - You'll find the instructions and information that you need in Jupyter Notebook files. There are also two datasets provided that you will use.
-    
- - There are four chapters (each contains different Data Analysis instructions) that you need to complete.
- 
- - Some parts of the chapter third require Data Visualization codes. These parts can be completed after Data Visualization with Python lessons. 
-    
- - Clone/Download these files and work on your local, then push your solutions (.ipynb files) up to your GitHub repository.
+ - I analyzed a dataset of traffic stops in Rhode Island collected by the Stanford Open Policing Project.
+
+ - There are two datasets that I use in this project.
  
  # Need to Study :
  - Basic `Pandas`, `NumPy` and visualization (optional) libraries.
@@ -26,5 +20,3 @@
  - `.crosstab()`
  - `.map()`
  - `.pivot_table()`
-    
- - ### Good luck!
