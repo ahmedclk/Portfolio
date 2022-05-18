@@ -1,13 +1,13 @@
 
 <h1><p style="text-align: center;">Exploratory Data Analysis (EDA) Project</p></h1> 
 
-<h3>Summary</h3>
+### Summary
 
 - This dataset, scraped from the on-line car trading company in 2019, contains many features of 9 different car models.
 - The features (variables) of this dataset are too messy and distored.
 
 
-<h3>Conclusion</h3>
+### Conclusion
 
 - Reading the ``.json`` file and assigning the dataset into a ``DataFrame`` using ``pandas``.
 - Applying all aspects of the **EDA process** to the dataset.
