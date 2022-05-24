@@ -1,18 +1,25 @@
 
-<h1><p style="text-align: center;">Data Analysis with Python <br>Project - 1 (Police Stops in Traffic)</p></h1> 
-
-<h3>Summary</h3>
-<p>With the help of weather and traffic stop datasets we were able to unveil pretty interesting connections between the features.</p>
-
-<h3>Conclusion</h3>
-<p>
-    <ul>
-        <li>Male and female drivers do not tend to commit different types of traffic violations.</li>
-        <li>Gender does not have an impact on whether the driver will receive a ticket or a warning.</li>
-        <li>The search rate for males is much higher than it is for females.</li>
-        <li>Males are frisked more often than females which might mean that police officers consider males to be higher risk.</li>
-        <li>When a driver gets stopped, they are more likely to get arrested at night.</li>
-        <li>Drug-related stops are becoming more common over time.</li>
-        <li>When a driver gets stopped for speeding, they are less likely to get arrested in bad weather conditions.</li>
-    </ul>
-</p>
+## Travel Insurance Prediction Data
+### About Dataset
+#### Context
+A Tour & Travels Company Is Offering Travel Insurance Package To Their Customers.
+The New Insurance Package Also Includes Covid Cover.
+The Company Requires To Know The Which Customers Would Be Interested To Buy It Based On Its Database History.
+The Insurance Was Offered To Some Of The Customers In 2019 And The Given Data Has Been Extracted From The Performance/Sales Of The Package During That Period.
+The Data Is Provided For Almost 2000 Of Its Previous Customers And You Are Required To Build An Intelligent Model That Can Predict If The Customer Will Be Interested To Buy The Travel Insurance Package Based On Certain Parameters Given Below.
+Image Credits-Unsplash(free to use)
+#### Content
+Age- Age Of The Customer
+Employment Type- The Sector In Which Customer Is Employed
+GraduateOrNot- Whether The Customer Is College Graduate Or Not
+AnnualIncome- The Yearly Income Of The Customer In Indian Rupees[Rounded To Nearest 50 Thousand Rupees]
+FamilyMembers- Number Of Members In Customer's Family
+ChronicDisease- Whether The Customer Suffers From Any Major Disease Or Conditions Like Diabetes/High BP or Asthama,etc.
+FrequentFlyer- Derived Data Based On Customer's History Of Booking Air Tickets On Atleast 4 Different Instances In The Last 2 Years[2017-2019].
+EverTravelledAbroad- Has The Customer Ever Travelled To A Foreign Country[Not Necessarily Using The Company's Services]
+TravelInsurance- Did The Customer Buy Travel Insurance Package During Introductory Offering Held In The Year 2019.
+#### Inspiration
+The Solution Offered By You May Be Used For Customer Specific Advertising Of The Package.
+Exploratory Data Analysis Performed On The Data Would Help Find Interesting Insights.
+Predict Whether A Given Customer Would Like To Buy The Insurance Package, Once The Corona Lockdown Ends And Travelling Resumes.
+Your Work Could Probably Help Save Thousands Of Rupees Of A Family.
